@@ -1,3 +1,0 @@
-Created on develop branch on the repository Version 1.0
-Version 2.0
-Added this line to test merge conflict Version	3.0
