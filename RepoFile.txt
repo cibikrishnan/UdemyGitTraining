@@ -1,3 +1,0 @@
-Created on the repository Version 1.0
-Entered Line 2 from local repository Version 2.0
-Entered line 3 from local repository Version 3.0
